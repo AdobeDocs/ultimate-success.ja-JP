@@ -3,7 +3,7 @@ title: Content Supply chain Value Realization Series
 description: 本シリーズでは、supply chainのコンテンツを、計画から測定に至るまで近代化する方法を解説します。 セッションでは、効率性の促進、コンテンツ運用の拡張、測定可能な成果の達成を目的として、アーキテクチャ、運用モデル、エグゼクティブスポンサーシップ、変更管理に対する実践的なアプローチを取り上げます。
 topic: Content Supply Chain
 hide: true
-source-git-commit: 4f467564ef48ca8b7fef32fddc7ac50a3070fb7c
+source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
 workflow-type: tm+mt
 source-wordcount: '590'
 ht-degree: 0%
@@ -147,3 +147,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
