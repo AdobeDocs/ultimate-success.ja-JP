@@ -35,7 +35,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="コンテンツサプライチェーンを最大化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="コンテンツサプライチェーンを最大化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1773689372143" alt="コンテンツサプライチェーンを最大化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -127,7 +127,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management" title="VRA Session 5 - Change Management Strategies to Operate your Content Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1773689372162" alt="VRA Session 5 - Change Management Strategies to Operate your Content Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479818/?captions=jpn&format=jpeg&nocache=1773689372162" alt="VRA Session 5 - Change Management Strategies to Operate your Content Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
