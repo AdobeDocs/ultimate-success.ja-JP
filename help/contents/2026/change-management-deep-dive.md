@@ -26,7 +26,7 @@ AJOの導入を加速させることに焦点を当てたインタラクティ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-このセッションでは事前の作業はほとんど必要ありません。  オプションで、[VRA シリーズ ](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)の[変更管理ストラテジー](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies)の録画を視聴し、あらゆる成熟度レベルのチームをサポートし、すべての参加者がAJOのユースケースに直接合わせた具体的な1 ページの変更計画を残します。
+このセッションでは事前の作業はほとんど必要ありません。  オプションで、[VRA シリーズ &#x200B;](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand)の[変更管理ストラテジー](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies)の録画を視聴し、あらゆる成熟度レベルのチームをサポートし、すべての参加者がAJOのユースケースに直接合わせた具体的な1 ページの変更計画を残します。
 
 このセッションでは，
 
