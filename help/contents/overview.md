@@ -2,7 +2,7 @@
 title: Ultimate Success Webinar Library
 description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 hide: true
-source-git-commit: c3a2b9ff21c5920d9bb2251dd49f1a3be5686b55
+source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -18,7 +18,8 @@ Ultimate Successのお客様向けに構築された戦略的および技術的�
 
 Adobe Experience Platform（AEP）ソリューションの価値を最大化するために設計されたオンデマンドウェビナーのコレクションをご覧ください。 Ultimateをご利用のお客様向けに構築された各セッションでは、実践的なガイダンス、実証済みの戦略、実例を提供し、よりスマートな意思決定と強力な成果をスケジュール通じて達成するのに役立ちます。
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -207,7 +208,8 @@ AdobeのValue Realization Seriesは、企業がAdobeへの投資を測定可能�
 
 各セッションでは、価値実現フレームワークの中核となる柱を強調し、戦略的プランニングをサポートし、価値実現までの時間を短縮し、有意義な成果を促すための実用的なガイダンスと実証済みのアーティファクトを提供します。 製品や業界固有のシリーズを参照して、チームが戦略をどのように活用し、関係者と調整して、導入から効果を生み出しているかを確認できます。
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
   {cta  = View series}
   
