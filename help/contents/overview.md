@@ -2,7 +2,7 @@
 title: Ultimate Success Webinar Library
 description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 hide: true
-source-git-commit: 8a54a96197c735be2ab4b90097004f8670637761
+source-git-commit: 6c0d3d7998b5beed45fb8d88aa3685c2e6dc7bc9
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 0%
@@ -23,13 +23,15 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/unified-audiences.md
+* ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
-* https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
-* https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
-* https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
-* https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
-* https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
-* https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
+* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
+* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
+* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds
+* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
+* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
+* https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -61,7 +63,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="AnalyticsおよびCustomer Journey Analytics用BRD-SDR ファイルの作成" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="AnalyticsおよびCustomer Journey Analytics用BRD-SDR ファイルの作成" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1777587755654" alt="AnalyticsおよびCustomer Journey Analytics用BRD-SDR ファイルの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -70,11 +72,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        AnalyticsおよびCustomer Journey Analytics用の<a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" title="AnalyticsおよびCustomer Journey Analytics用BRD-SDR ファイルの作成">BRD-SDR ファイルの作成</a>
+                        AnalyticsおよびCustomer Journey Analytics用の<a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" title="AnalyticsおよびCustomer Journey Analytics用BRD-SDR ファイルの作成">BRD-SDR ファイルの作成</a>
                     </p>
                     <p class="is-size-6">Adobe AnalyticsとCJAでBRD-SDR ファイルを作成し、パフォーマンスを最適化して移行を促進するためのベストプラクティスについて説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -84,7 +86,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="組み込みのインテリジェンスシフト" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="組み込みのインテリジェンスシフト" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1777587755920" alt="組み込みのインテリジェンスシフト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -93,11 +95,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" title="組み込みのインテリジェンスシフト">組み込みインテリジェンス Shift</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" title="組み込みのインテリジェンスシフト">組み込みインテリジェンス Shift</a>
                     </p>
                     <p class="is-size-6">Adobe Experience Cloudが、どのように支援型インテリジェンスを導入して、意思決定を強化し、insightとアクションのサイクルを加速するのかを解説します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -107,7 +109,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Edge Delivery Servicesでのオーサリング" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Edge Delivery Servicesでのオーサリング" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1777587755996" alt="Edge Delivery Servicesでのオーサリング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -116,11 +118,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" title="Edge Delivery Servicesでのオーサリング">Edge Delivery Servicesでのオーサリング </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" title="Edge Delivery Servicesでのオーサリング">Edge Delivery Servicesでのオーサリング </a>
                     </p>
                     <p class="is-size-6">Edge Delivery ServicesによるドキュメントベースのオーサリングとユニバーサルエディターのAEM Sitesとの比較をご確認ください。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -130,8 +132,8 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="コンテンツサプライチェーンを最大化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1777587755744" alt="コンテンツサプライチェーンを最大化"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="コンテンツサプライチェーンを最大化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1777587755744" alt="コンテンツサプライチェーンを最大化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,11 +141,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" title="コンテンツサプライチェーンを最大化"> コンテンツサプライチェーンを最大化</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" title="コンテンツサプライチェーンを最大化"> コンテンツサプライチェーンを最大化</a>
                     </p>
                     <p class="is-size-6">Adobeを利用して、コンテンツサプライチェーンを最適化し、インパクトのある成果を達成する方法をご確認ください。 業界パターンを学び、目的を効果的にマップ化する。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -153,8 +155,8 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sitesの最新の配信モデル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478776/?captions=jpn&format=jpeg&nocache=1777587755659" alt="AEM Sitesの最新の配信モデル"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="AEM Sitesの最新の配信モデル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1777587755659" alt="AEM Sitesの最新の配信モデル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,11 +164,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" title="AEM Sitesの最新の配信モデル">AEM Sitesの最新の配信モデル </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" title="AEM Sitesの最新の配信モデル">AEM Sitesの最新の配信モデル </a>
                     </p>
                     <p class="is-size-6">AEM Sitesの最新の配信モデルを確認し、スケーラブルでアジャイルなコンテンツ配信と最適化されたオーサリング体験を実現しましょう。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -176,7 +178,7 @@ CARDS  ****
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="AEM Cloud Serviceの戦略的メリット" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="AEM Cloud Serviceの戦略的メリット" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1777587755617" alt="AEM Cloud Serviceの戦略的メリット"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -185,11 +187,11 @@ CARDS  ****
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" title="AEM Cloud Serviceの戦略的メリット">AEM Cloud Serviceの戦略的メリット </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" title="AEM Cloud Serviceの戦略的メリット">AEM Cloud Serviceの戦略的メリット </a>
                     </p>
                     <p class="is-size-6">AdobeのAEM Cloud Serviceの最新のデジタル基盤に対する戦略的かつ運用上の優位性をご覧ください。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
@@ -271,7 +273,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain Value Realization Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
