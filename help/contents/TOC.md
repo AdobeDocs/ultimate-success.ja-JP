@@ -20,6 +20,6 @@ ht-degree: 2%
    + [CSC価値実現シリーズ](mini-series/csc-on-demand.md)
 + {hide-from-toc}非表示 {#hidden}
    + {hide-from-toc}[変更管理の詳細](../contents/2026/change-management-deep-dive.md)
-   + {hide-from-toc}[ インテリジェントな決定](../contents/2026/intelligent-decsioning.md)
+   + {hide-from-toc}[&#x200B; インテリジェントな決定](../contents/2026/intelligent-decsioning.md)
    + {hide-from-toc}[連合オーディエンス構成のロックを解除](../contents/2026/unified-audiences.md)
    + {hide-from-toc}[AI時代の可視性](../contents/2026/ai-visibility.md)
