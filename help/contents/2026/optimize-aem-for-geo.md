@@ -19,7 +19,7 @@ ht-degree: 0%
 
 人工知能（AI）が、検索のあり方をどのように再構築し、デジタル戦略にどのような影響を与えるかをご確認ください。 このセッションでは、AIを活用した検索の進化する状況において、可視性、パフォーマンス、コンバージョンを向上させるために、Adobe Experience Manager（AEM） Sitesを最適化する方法を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491259/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491274/?captions=jpn&learn=on&enablevpops)
 
 ## 主なトピック
 

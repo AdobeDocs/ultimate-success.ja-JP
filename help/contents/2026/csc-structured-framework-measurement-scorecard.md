@@ -19,4 +19,4 @@ ht-degree: 0%
 
 コンテンツの複雑さが増すにつれて、多くの企業は、コンテンツ運用のビジネス価値を明確に示すのに苦慮しています。 このウェビナーでは、Content Supply chain全体の価値を測定するための、体系化された成果ベースのアプローチを導入します。これにより、有意義なKPIを定義し、コンテンツへの投資をビジネスへの影響に結びつけ、継続的な価値実現のための測定スコアカードを確立することができます
 
->[!VIDEO](https://video.tv.adobe.com/v/3491220/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491236/?captions=jpn&learn=on&enablevpops)
