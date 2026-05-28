@@ -19,7 +19,7 @@ ht-degree: 0%
 
 このウェビナーでは、Adobe GenStudio for Performance MarketingとMarketo Engageを統合して、メール施策を効率化する方法を解説します。 IMS組織の共有アクセスや新しいメールデザイナーなどの設定要件について説明し、GenStudioで作成されたメールエクスペリエンスをMarketoに読み込む方法を示すライブデモを紹介します。 また、Adobe GenStudioと互換性のあるMarketoの電子メールテンプレートの作成についても説明し、統合のメリットを強調します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491514/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491516/?captions=jpn&learn=on&enablevpops)
 
 重要なポイントは、新しいメールデザイナーが提供した効率性とモジュールです。このデザイナーは、ドラッグ&amp;ドロップ操作のモジュールをサポートし、Adobeのエコシステムと連携しています。 これにより、マーケターは時間を節約し、共同作業を促進して、ターゲットを絞ったメールキャンペーンを効果的に実施できます。
 
