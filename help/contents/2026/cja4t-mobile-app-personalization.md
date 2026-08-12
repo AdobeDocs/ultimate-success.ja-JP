@@ -23,7 +23,7 @@ ht-degree: 2%
 
 CJA4Tを利用して、Adobe Targetモバイルアプリエクスペリエンスを、チャネルをまたいだ下流工程のアクションに結び付ける方法を紹介します。 このセッションでは、IDの接続、データアーキテクチャ、レポート設定、一般的な設定の落とし穴の回避に関するガイダンスを提供します。 パーソナライゼーションの影響をより包括的に把握し、より優れた最適化に関する意思決定をおこなうことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496979/?captions=jpn&learn=on&enablevpops)
 
 ## 学習内容
 
