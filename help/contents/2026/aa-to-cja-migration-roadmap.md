@@ -2,8 +2,13 @@
 title: Adobe AnalyticsからCustomer Journey Analyticsへの移行ロードマップ
 description: Adobe AnalyticsからCustomer Journey Analyticsに移行する手順について説明します。 ID戦略やデータ検証などに関するインサイトを獲得できます。
 product: Customer Journey Analytics
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

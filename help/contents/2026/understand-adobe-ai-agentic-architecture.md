@@ -2,8 +2,15 @@
 title: AdobeのAIとビジネスニーズに対応するエージェンティックアーキテクチャを解説
 description: AdobeのAIとエージェンティックなアーキテクチャが、どのようにビジネス成果に連携し、Adobeへの投資を最大化して、強力なガバナンスによってスケーラブルな導入を可能にするのかをご確認ください。
 product: Platform
-role: AdminDeveloperLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Developer
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

@@ -2,8 +2,14 @@
 title: Adobe Agentsの拡張 – Journey Agent
 description: AdobeのJourney Agentが、AI ワークフローと人間による管理を組み合わせて、ジャーニーの構築とガバナンスを最適化する方法をご紹介します。
 product: Journey Optimizer
-role: AdminLeaderUser
-level: BeginnerIntermediateExperienced
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
+  - Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

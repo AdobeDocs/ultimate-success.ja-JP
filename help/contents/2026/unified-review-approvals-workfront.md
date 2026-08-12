@@ -2,8 +2,13 @@
 title: Workfrontで統一されたレビューと承認が必要な理由
 description: Adobe Workfront Unified Review & Approvalが、コンテンツのレビュープロセスを合理化し、コラボレーションを促進して、効率性を向上させる方法をご確認ください。
 product: Workfront
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z

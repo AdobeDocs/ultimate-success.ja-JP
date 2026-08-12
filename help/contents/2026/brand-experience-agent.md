@@ -2,8 +2,13 @@
 title: Adobe Agentsの拡張 – Brand Experience Agent
 description: AdobeのBrand Experience Agentが、ワークフローを効率化し、コンテンツ制作を加速して、ガバナンスを確保してスケーラブルなビジネス価値を実現するのにどのように役立つのかをご覧ください。
 product: Workfront
-role: AdminLeaderUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Leader
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12T00:00:00Z
