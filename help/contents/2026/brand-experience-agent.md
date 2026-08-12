@@ -28,7 +28,7 @@ ht-degree: 2%
 
 Brand Experience Agentにより、人間によるレビューとガバナンスを維持しながら、コンテンツの制作、サイトの近代化、開発を高速化する方法をご確認ください。 スケーラブルなビジネス価値を提供するために、高価値で反復的なワークフローを標準化することが重要な理由をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496956/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496968/?captions=jpn&learn=on&enablevpops)
 
 ## 学習内容
 

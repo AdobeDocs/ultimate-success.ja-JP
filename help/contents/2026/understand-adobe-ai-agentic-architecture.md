@@ -30,7 +30,7 @@ ht-degree: 4%
 
 このセッションでは、AdobeのAI能力をビジネス目標に合わせるための詳細なフレームワークを紹介します。 Adobeへの投資を最大限に活用し、強化されたデータ対応機能とガバナンス機能を備えたスケーラブルなソリューションを採用することに重点を置いています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496952/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496959/?captions=jpn&learn=on&enablevpops)
 
 ## 学習内容
 
