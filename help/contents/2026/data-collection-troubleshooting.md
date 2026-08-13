@@ -1,7 +1,7 @@
 ---
 title: データ収集のトラブルシューティング – ヒント、テクニック、ガバナンスのベストプラクティス
 description: ガバナンス主導の手法でAdobe AnalyticsとWeb SDKのトラブルシューティングを行い、データを検証して問題を迅速に解決するための効果的な方法を紹介します。
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22284
 duration: 3401
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 2%

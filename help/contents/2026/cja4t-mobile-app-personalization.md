@@ -1,7 +1,7 @@
 ---
 title: 実験からInsightへ – モバイルアプリ用CJA4T Personalization
 description: CJA4Tが、Adobe Targetのモバイルアプリエクスペリエンスをクロスチャネルのインサイトに結びつけ、より優れたパーソナライゼーションと最適化を実現する方法をご覧ください。
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22282
 duration: 2118
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 CJA4Tを利用して、Adobe Targetモバイルアプリエクスペリエンスを、チャネルをまたいだ下流工程のアクションに結び付ける方法を紹介します。 このセッションでは、IDの接続、データアーキテクチャ、レポート設定、一般的な設定の落とし穴の回避に関するガイダンスを提供します。 パーソナライゼーションの影響をより包括的に把握し、より優れた最適化に関する意思決定をおこなうことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496979/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
 
 ## 学習内容
 

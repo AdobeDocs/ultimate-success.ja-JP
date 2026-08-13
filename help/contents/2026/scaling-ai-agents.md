@@ -1,7 +1,7 @@
 ---
 title: Adobe AI Agentsの拡張 – Audience AgentとData Insights Agent
 description: Audience AgentとData Insights Agentにより、AIを利用して、セグメンテーション、オーディエンス管理、キャンペーン分析を繰り返し可能なワークフローに変える方法をご確認ください。
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22287
 duration: 2930
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 2%
