@@ -1,7 +1,7 @@
 ---
 title: AdobeのAIとビジネスニーズに対応するエージェンティックアーキテクチャを解説
 description: AdobeのAIとエージェンティックなアーキテクチャが、どのようにビジネス成果に連携し、Adobeへの投資を最大化して、強力なガバナンスによってスケーラブルな導入を可能にするのかをご確認ください。
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22281
 duration: 1821
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%

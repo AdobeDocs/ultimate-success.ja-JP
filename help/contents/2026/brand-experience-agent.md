@@ -1,7 +1,7 @@
 ---
 title: Adobe Agentsの拡張 – Brand Experience Agent
 description: AdobeのBrand Experience Agentが、ワークフローを効率化し、コンテンツ制作を加速して、ガバナンスを確保してスケーラブルなビジネス価値を実現するのにどのように役立つのかをご覧ください。
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ jira: KT-22285
 duration: 1968
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-source-git-commit: a255159f9acceaab6ad6ecf44109f366aa738de2
+source-git-commit: d438551366627f812abfe5e6af458b7e116e94bd
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
