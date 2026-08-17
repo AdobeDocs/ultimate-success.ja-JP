@@ -2,8 +2,13 @@
 title: Adobe Customer Journey Analyticsと連携してクロスチャネルのインサイトを向上
 description: AdobeとCJAを連携させることで、どのように個人レベルのクロスチャネル分析を実現し、レポートやアトリビューション、オーディエンスの構築を強化できるのかをご確認ください。
 product: Journey Optimizer
-role: AdminDeveloperUser
-level: BeginnerIntermediate
+role:
+  - Admin
+  - Developer
+  - User
+level:
+  - Beginner
+  - Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17T00:00:00Z
