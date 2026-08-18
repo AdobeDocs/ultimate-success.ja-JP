@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar Library
 breadcrumb-title: Ultimate Success Webinar Library
 user-guide-description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 nudge: true
-source-git-commit: 8341cffff74fd458f81bd307e523d075c29badad
+source-git-commit: ae55a4878eecae03ea31d7564b2a3066c242b78e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
@@ -47,3 +47,4 @@ ht-degree: 1%
   + {hide-from-toc}[&#x200B; モバイルアプリ用CJA4T Personalization](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc}[AdobeのAIとエージェント型アーキテクチャ &#x200B;](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc}[Adobe Workfrontのスケーラブルな運用モデル &#x200B;](../contents/2026/scalable-operating-model.md)
+  + {hide-from-toc}[Adobe Customer Journey Analytics ステッチ &#x200B;](../contents/2026/cja-stitching.md)
