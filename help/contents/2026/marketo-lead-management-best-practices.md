@@ -23,7 +23,7 @@ ht-degree: 2%
 
 Adobeがリード管理において推奨するアプローチと、マーケティング部門と営業部門が連携し、リードのクオリフィケーション、フォローアップ、測定をおこなう方法について解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502954/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502991/?captions=jpn&learn=on&enablevpops)
 
 ## 概要
 

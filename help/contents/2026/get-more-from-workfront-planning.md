@@ -23,7 +23,7 @@ ht-degree: 4%
 
 Workfront Planningが、マーケティングプランニングにおける断片化された可視性、断片化された戦略と実行、手作業によるレポート作成のオーバーヘッドにどのように対処するかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502959/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502971/?captions=jpn&learn=on&enablevpops)
 
 ## 重要な留意点
 
