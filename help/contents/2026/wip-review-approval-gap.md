@@ -19,7 +19,7 @@ source-wordcount: '132'
 ht-degree: 0%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3503926/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503929/?captions=jpn&learn=on&enablevpops)
 
 # ドラフトから納品まで：WIP レビューと承認のギャップを埋める
 
