@@ -3,13 +3,14 @@ title: AJO Value Realization Acceleration Series
 description: Adobe Journey OptimizerのValue Realization Seriesは、明確な価値戦略を通じて、リアルタイムでパーソナライズされたエンゲージメントを実現する方法をチームに提供します。 このセッションでは、価値創出までの時間を短縮し、AJOの導入を最大化するためのユースケースロードマップ、アーキテクチャ、運用モデル、組織体制などについて解説します。
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 0%
-
+source-wordcount: '851'
+ht-degree: 23%
 ---
-
 
 # AJO Value Realization Acceleration Series
 
@@ -46,7 +47,7 @@ CARDS  ****
                     <p class="is-size-6">測定可能な成果をもたらすAdobe Journey Optimizerのユースケースロールアウト戦略の設計方法を学びましょう。 ビジネス価値を引き出すための実用的なヒントと実例を紹介します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/ajo-roadmap-to-value" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -69,7 +70,7 @@ CARDS  ****
                     <p class="is-size-6">ノーススターアーキテクチャを活用することで、導入におけるギャップを診断し、AJOとAdobeソリューションスタック全体の組織の連携を維持する方法を説明します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/northstar-architecture-enable-adobe-journey-optimzier" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -92,7 +93,7 @@ CARDS  ****
                     <p class="is-size-6">一貫性のある運用モデルによって効率を高め、リソースの課題を回避し、マーケティングプログラムを拡張して長期的な成功を実現する方法を解説します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/design-an-operating-model-ajo" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -115,7 +116,7 @@ CARDS  ****
                     <p class="is-size-6">経営陣がAJOのプログラムを推進し、チームの連携を図り、スポンサーのエンゲージメントとリーダーシップに関する戦略で成果を上げる方法をご覧ください。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/build-executive-sponsorship-ajo" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -138,7 +139,7 @@ CARDS  ****
                     <p class="is-size-6">リーダーシップ、コラボレーション、リアルタイムエンゲージメントを推進し、Adobe Journey Optimizerの価値を最大限に引き出すための戦略をご確認ください。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>

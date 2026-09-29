@@ -3,13 +3,14 @@ title: CJA Value Realization Acceleration Series
 description: このオンデマンドのCustomer Journey Analyticsシリーズは、顧客データを信頼できるインサイトに変え、測定可能なビジネス成果を生み出す、価値主導の測定戦略を構築するのに役立ちます。
 solution: Customer Journey Analytics
 hide: true
-source-git-commit: bfbf2983262e37143222d8ece1e23a2c2ab6e81b
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+source-git-commit: c86ed78d1c11ec9eb836e05db20c4b47c392b9fd
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 0%
-
+source-wordcount: '776'
+ht-degree: 25%
 ---
-
 
 # CJA Value Realization Acceleration Series
 
@@ -48,7 +49,7 @@ CARDS  ****
                     <p class="is-size-6">ユースケースロードマップ、実例、戦略的でデータ主導の意思決定を促進するステップにより、CJAの完全な価値を引き出します。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/roadmap-to-value-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -71,7 +72,7 @@ CARDS  ****
                     <p class="is-size-6">ノーススターのアーキテクチャが、技術的負債を低減し、Adobe Customer Journey Analyticsの導入を合理化して、スケーラブルで整合されたAdobe Experience Platformの実装をサポートする方法をご覧ください。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-vision" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -94,7 +95,7 @@ CARDS  ****
                     <p class="is-size-6">CJA測定プログラムを戦略目標に合わせ、長期的な効率と影響を促す、拡張性の高い部門横断的な運用モデルを構築する方法をご確認ください。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-operating-model" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -117,7 +118,7 @@ CARDS  ****
                     <p class="is-size-6">Adobe Customer Journey Analyticsの経営陣から支持を得るための戦略をご紹介します。 連携を促進し、予算を確保して、データ主導の意思決定を促進する。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-success" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -140,7 +141,7 @@ CARDS  ****
                     <p class="is-size-6">Customer Journey Analyticsを成功に導くための変更管理戦略をご紹介します。 抵抗感を克服し、チームを調整して、価値の実現を効果的に追跡しましょう。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/ja/docs/events/adobe-customer-success-webinar-recordings/2025/cja2025/cja-adoption" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">監視</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
