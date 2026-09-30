@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar Library
 breadcrumb-title: Ultimate Success Webinar Library
 user-guide-description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 nudge: true
-source-git-commit: b8c15a9c7151c54bf619d0e977bf59e59e16463c
+source-git-commit: 2efd51569b09ed63e50d0c21d7279c296c6d866a
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '256'
 ht-degree: 0%
 ---
 
@@ -56,3 +56,5 @@ ht-degree: 0%
   + {hide-from-toc}[CXOの成功に向けた戦略的プランニング &#x200B;](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc}[AEM Agent Skills](../contents/2026/ai-assisted-development.md)
   + {hide-from-toc}[&#x200B; タグ付き、管理、アクティブ化](../contents/2026/metadata-backbone-content-at-scale.md)
+  + {hide-from-toc}[B2B ビジネスの成長の未来を解き放つ](../contents/2026/future-b2b-growth.md)
+  + {hide-from-toc}[WIPのレビューと承認のギャップを埋める](../contents/2026/wip-review-approval-gap.md)
