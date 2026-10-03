@@ -2,21 +2,15 @@
 title: Ultimate Success Webinar Library
 description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: 574e2ed4b4b12f069dd194562b1a3f376ec56697
 workflow-type: tm+mt
-source-wordcount: '984'
-ht-degree: 14%
+source-wordcount: '884'
+ht-degree: 15%
 ---
 
 # Ultimate Success Webinar Library
 
 Ultimate Successのお客様向けに構築された戦略的および技術的なベストプラクティスを習得できるように設計された、エキスパート主導のウェビナーの包括的なライブラリを利用できます。 基本的な概念から高度な導入戦略まで、測定可能なビジネス成果を促進するために必要なあらゆる機能を備えています。
-
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet pork belly picanha shank, biltong ham meatloaf polony pork loin doner landjaeger. 七面鳥スペアリブフィレミニョンパンセッタグラウンドラウンド leberkas ショルダードラムスティックジャーキー豚肉ボールチップ。 ショートリブフランクフルターチャックハムホックトライチップ、フィレミニオンテール牛の地面ラウンド boudin chislic drumstick。 Capicola jowl short ribs, shoulder frankfurter spare ribs pork loin rump fatback turkey boudin salami ground round. Jowl shankle landjaeger prosciutto porchetta turducken chislic chuck. ビーフシャンクルトルダッケン、landjaeger短いリブ短いロインパンチェッタスペアリブコーンビーフポルチェッタポロニーケビンジョウルポークチョップ。
-
-[ウェビナーを見る](./webinars.md)
 
 ## ウェビナー
 
@@ -39,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491236/?captions=jpn&format=jpeg&nocache=1790984045136" alt="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1790984045136" alt="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain Value Realization Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
