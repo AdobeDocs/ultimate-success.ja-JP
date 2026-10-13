@@ -1,16 +1,16 @@
 ---
 title: AI Essentials
-description: Bacon ipsum dolor amet pork belly picanha shank, biltong ham meatloaf polony pork loin doner landjaeger. ユースケースロードマップ、アーキテクチャ、運用モデル、組織体制などを活用して、価値創出までの時間を短縮し、AJOの導入を最大化する方法を解説します。
+description: Adobe AIの概要と、Adobe Customer Experience Orchestration製品のAI機能を解説するオンデマンドセッションで学びましょう。
 hide: true
-source-git-commit: 3084af6480f8fddcd65d45701ecc4c05c35787a4
+source-git-commit: bd094928525c06637c81d58284eeb81959797c7f
 workflow-type: tm+mt
-source-wordcount: '1246'
-ht-degree: 28%
+source-wordcount: '1310'
+ht-degree: 30%
 ---
 
 # AI Essentials シリーズ
 
-Bacon ipsum dolor amet pork belly picanha shank, biltong ham meatloaf polony pork loin doner landjaeger. 七面鳥スペアリブフィレミニョンパンセッタグラウンドラウンド leberkas ショルダードラムスティックジャーキー豚肉ボールチップ。 ショートリブフランクフルターチャックハムホックトライチップ、フィレミニオンテール牛の地面ラウンド boudin chislic drumstick。 Capicola jowl short ribs, shoulder frankfurter spare ribs pork loin rump fatback turkey boudin salami ground round. Jowl shankle landjaeger prosciutto porchetta turducken chislic chuck. ビーフシャンクルトルダッケン、landjaeger短いリブ短いロインパンチェッタスペアリブコーンビーフポルチェッタポロニーケビンジョウルポークチョップ。
+Adobe Adobe AIのオンデマンドシリーズで、実用的な基盤を構築しましょう。 AdobeのCustomer Experience Orchestration製品内で、AI機能のコアコンセプトに取り組むか、AI機能の実践的なアプリケーションに関するセッションで、より深く掘り下げます。
 
 ## 基盤の構築
 
@@ -29,7 +29,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/on-demand-events/embedded-intelligence" title="組み込みのインテリジェンスシフト" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1790984011805" alt="組み込みのインテリジェンスシフト"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1791840290135" alt="組み込みのインテリジェンスシフト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -52,7 +52,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/on-demand-events/ai-agents" title="AEPのAI Agents – 概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1790984011790" alt="AEPのAI Agents – 概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1791840290152" alt="AEPのAI Agents – 概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,6 +82,7 @@ CARDS  ****
 
 * https://experienceleague.adobe.com/ja/on-demand-events/ai-beyond-basics
 * https://experienceleague.adobe.com/ja/on-demand-events/cja-data-insights-agent
+* https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja
 * https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -91,7 +92,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/on-demand-events/ai-beyond-basics" title="AI アシスタント – 基本を超えて" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463359/?captions=jpn&format=jpeg&nocache=1790984012630" alt="AI アシスタント – 基本を超えて"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463359/?captions=jpn&format=jpeg&nocache=1791840290822" alt="AI アシスタント – 基本を超えて"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,7 +115,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/on-demand-events/cja-data-insights-agent" title="データを活用したコミュニケーション - CJA Data Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1790984012667" alt="データを活用したコミュニケーション - CJA Data Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476895/?format=jpeg&nocache=1791840290776" alt="データを活用したコミュニケーション - CJA Data Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,12 +133,35 @@ CARDS  ****
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Operationalizing Adobe Data Insights Agent in CJA">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" title="CJAでのAdobe Data Insights Agentの運用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491258/?format=jpeg&nocache=1791840290897" alt="CJAでのAdobe Data Insights Agentの運用"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" title="CJAでのAdobe Data Insights Agentの運用">CJAでのAdobe Data Insights Agentの運用</a>
+                    </p>
+                    <p class="is-size-6">Adobe Data Insights AgentをCustomer Journey Analyticsのワークフローに統合し、より迅速なインサイトの獲得と大規模な意思決定を実現する方法をご確認ください。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/data-insights-agent-cja" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Scaling Adobe AI Agents - Audience Agent & Data Insights Agent">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/scaling-ai-agents" title="Adobe AI Agentsの拡張 – Audience AgentとData Insights Agent" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1790984013113" alt="Adobe AI Agentsの拡張 – Audience AgentとData Insights Agent"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496958/?format=jpeg&nocache=1791840290912" alt="Adobe AI Agentsの拡張 – Audience AgentとData Insights Agent"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +199,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-features-aem-assets" title="ADOBE EXPERIENCE MANAGER ASSETSのAI機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1790984013690" alt="ADOBE EXPERIENCE MANAGER ASSETSのAI機能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502952/?format=jpeg&nocache=1791840291754" alt="ADOBE EXPERIENCE MANAGER ASSETSのAI機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +222,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/docs/ultimate-success/ultimate-success-webinar-library/hidden/ai-assisted-development" title="AEM Agent Skills - AI-Assisted Development Done Right" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1790984013704" alt="AEM Agent Skills - AI-Assisted Development Done Right"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502967/?format=jpeg&nocache=1791840291747" alt="AEM Agent Skills - AI-Assisted Development Done Right"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +260,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/on-demand-events/accelerating-digital-experience-optimization" title="AIを活用したインサイトでデジタル体験の最適化を加速" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1790984014193" alt="AIを活用したインサイトでデジタル体験の最適化を加速"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1791840292430" alt="AIを活用したインサイトでデジタル体験の最適化を加速"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +283,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ja/on-demand-events/ai-adobe-target" title="AIの力を引き出す – Adobe Targetによる高度なテスト" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1790984014257" alt="AIの力を引き出す – Adobe Targetによる高度なテスト"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1791840292451" alt="AIの力を引き出す – Adobe Targetによる高度なテスト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
