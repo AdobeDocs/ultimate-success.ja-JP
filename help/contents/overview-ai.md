@@ -2,9 +2,9 @@
 title: Ultimate Success Webinar Library
 description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 hide: true
-source-git-commit: 991fae76e22b430abcaa45094697d560f864a1fd
+source-git-commit: 7d99aced57be0fb087d28e87780797cf9eeffb23
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '890'
 ht-degree: 15%
 ---
 
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491236/?captions=jpn&format=jpeg&nocache=1791844681479" alt="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791915927056" alt="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/universal-editor-ssr-frameworks.md" title="ユニバーサルエディターと最新のSSR フレームワークを備えた、高速で編集可能なサイト" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791844681450" alt="ユニバーサルエディターと最新のSSR フレームワークを備えた、高速で編集可能なサイト"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491408/?format=jpeg&nocache=1791915927036" alt="ユニバーサルエディターと最新のSSR フレームワークを備えた、高速で編集可能なサイト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/ajo-product-release.md" title="AJO製品リリースセッション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791844681438" alt="AJO製品リリースセッション"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491221/?format=jpeg&nocache=1791915927066" alt="AJO製品リリースセッション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -138,7 +138,7 @@ CARDS  ****
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" title="AI Essentials">AI Essentials</a>
                     </p>
-                    <p class="is-size-6">Adobe AIの概要と、Adobe Customer Experience Orchestration製品のAI機能を解説するオンデマンドセッションで学びましょう。</p>
+                    <p class="is-size-6">アドビが厳選したオンデマンドミニシリーズのコンテンツをご覧ください。各ウェビナーは1つのトピックにもとづいて構築されているため、各セッションを単独で学習することも、シリーズ全体を視聴してエンドツーエンドの全体像を把握することもできます</p>
                 </div>
                 <a href="mini-series/ai-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">系列を表示</span>
@@ -197,7 +197,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain Value Realization Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
