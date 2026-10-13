@@ -1,8 +1,8 @@
 ---
 title: Ultimate Success Webinar Library
-description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
+description: Ultimate Successをご利用のお客様は、アドビのウェビナーライブラリで、戦略的および技術的なベストプラクティスを短期間で習得し、測定可能なビジネス成果を達成できます。その方法をご確認ください。
 hide: true
-source-git-commit: e54197aac17d3cffb889e5dd0504b770f830c8eb
+source-git-commit: f87dd016a0c5520673ce05360b50e30501371823
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 16%
@@ -33,7 +33,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../contents/2026/csc-structured-framework-measurement-scorecard.md" title="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491236/?captions=jpn&format=jpeg&nocache=1791917786805" alt="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491220/?format=jpeg&nocache=1791917786805" alt="コンテンツ全体で価値を向上Supply chain – 構造化されたフレームワークと測定スコアカード"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="mini-series/csc-on-demand.md" title="Content Supply chain Value Realization Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="Content Supply chain Value Realization Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
