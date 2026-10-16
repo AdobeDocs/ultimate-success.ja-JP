@@ -19,7 +19,7 @@ source-wordcount: '365'
 ht-degree: 1%
 ---
 
->[!VIDEO](https://video.tv.adobe.com/v/3504653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504655/?captions=jpn&learn=on&enablevpops)
 
 # 統合を迅速に開始：キャンペーン REST APIの基本を学ぶ
 
