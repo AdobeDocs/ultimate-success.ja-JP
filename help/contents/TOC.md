@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar Library
 breadcrumb-title: Ultimate Success Webinar Library
 user-guide-description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 nudge: true
-source-git-commit: d2ccb7d2777d016909412f05889e7d49feffec05
+source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '272'
 ht-degree: 0%
 ---
 
@@ -61,4 +61,5 @@ ht-degree: 0%
   + {hide-from-toc}[WIPのレビューと承認のギャップを埋める](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc}[AI スケール用に作成](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[AJO コードベースのエクスペリエンス &#x200B;](../contents/2026/strategies-for-smarter-personalization.md)
+  + {hide-from-toc}[Campaign REST APIの概要](../contents/2026/getting-started-campaign-rest-apis.md)
 
