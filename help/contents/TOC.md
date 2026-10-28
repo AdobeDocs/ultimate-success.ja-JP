@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar Library
 breadcrumb-title: Ultimate Success Webinar Library
 user-guide-description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 nudge: true
-source-git-commit: 56718dcbe1a6ff4f61d73218925bdc33c43a8348
+source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '293'
 ht-degree: 0%
 ---
 
@@ -62,4 +62,7 @@ ht-degree: 0%
   + {hide-from-toc}[AI スケール用に作成](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc}[AJO コードベースのエクスペリエンス &#x200B;](../contents/2026/strategies-for-smarter-personalization.md)
   + {hide-from-toc}[Campaign REST APIの概要](../contents/2026/getting-started-campaign-rest-apis.md)
+  + {hide-from-toc}[AEM AI アシスタントとAdobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
+  + {hide-from-toc}[Campaign電子メール Designerを使用した本番環境の拡張](../contents/2026/scale-production-campaign-email-designer.md)
+  + {hide-from-toc}[AI エージェンティック投資をビジネス インパクトに結び付ける](../contents/2026/ai-agentic-investments-to-business-impact.md)
 
