@@ -3,9 +3,9 @@ user-guide-title: Ultimate Success Webinar Library
 breadcrumb-title: Ultimate Success Webinar Library
 user-guide-description: Ultimate Successをご利用のお客様は、アドビのエキスパート主導のウェビナーライブラリにアクセスして、戦略的および技術的なベストプラクティスをすばやく習得し、測定可能なビジネス成果を達成できます。
 nudge: true
-source-git-commit: e0385887308ad535ac50a9915de57c9196f3dd03
+source-git-commit: 5b5c687103ee3deb7607be409d98dcab63204ee5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '296'
 ht-degree: 0%
 ---
 
@@ -65,4 +65,5 @@ ht-degree: 0%
   + {hide-from-toc}[AEM AI アシスタントとAdobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
   + {hide-from-toc}[Campaign電子メール Designerを使用した本番環境の拡張](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc}[AI エージェンティック投資をビジネス インパクトに結び付ける](../contents/2026/ai-agentic-investments-to-business-impact.md)
+  + {hide-from-toc}[持続可能なAIの導入](../contents/2026/sustainable-ai-adoption.md)
 
