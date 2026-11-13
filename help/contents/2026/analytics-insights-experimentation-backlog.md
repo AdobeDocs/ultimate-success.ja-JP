@@ -22,7 +22,7 @@ ht-degree: 0%
 
 多くのデジタルエクスペリエンス部門は、豊富な分析データを活用できるものの、insightから施策に至るまでの明確な道筋を欠いています。 このセッションでは、Adobe AnalyticsとCustomer Journey Analyticsを体系的にマイニングし、それらを優先順位付けされたテスト可能な仮説に変換し、継続的に最適化するためにAdobe TargetとJourney Optimizerに統合する方法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508245/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508267/?captions=jpn&learn=on&enablevpops)
 
 ## 学習すること
 
